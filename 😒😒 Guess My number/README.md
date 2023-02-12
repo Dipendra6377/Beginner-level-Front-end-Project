@@ -9,4 +9,4 @@
  3. If you guess lower than the hidden number it will show too low means number is lower than the actual number
 </pre>
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/91822875/218311170-c452dff0-6b33-44a3-9036-bd11e5002a47.gif)
+
